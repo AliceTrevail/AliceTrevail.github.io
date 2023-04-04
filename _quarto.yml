@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Alice Trevail"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+  page-footer:
+    center: 
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=mKYlUsUAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/AliceTrevail
+      - icon: twitter
+        href: https://twitter.com/AliceTrevail
+      - icon: envelope-fill
+        href: https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Alice_Trevail
+    
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
