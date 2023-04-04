@@ -3,7 +3,9 @@ project:
 
 website:
   title: "Alice Trevail"
+  favicon: /images/RFB.png
   navbar:
+    logo: /images/RFB.png
     left:
       - href: index.qmd
         text: Home
@@ -22,9 +24,11 @@ website:
     
 format:
   html:
-    theme: cosmo
+    theme: 
+      - customstyles.scss
     css: styles.css
     toc: true
+    mainfont: Roboto
 
 editor: visual
 
