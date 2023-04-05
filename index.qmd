@@ -2,7 +2,7 @@
 image: images/profile.jpg
 about:
   template: trestles
-  image-shape: rounded
+  image-shape: round
 ---
 
 # About me
