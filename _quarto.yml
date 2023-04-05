@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Projects.qmd
-      - Publications.qmd
   page-footer:
     center: 
       - icon: mortarboard-fill
