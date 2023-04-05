@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: _site
+  
 website:
   title: "Alice Trevail"
   favicon: /images/RFB.png
