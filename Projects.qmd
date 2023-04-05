@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-sidebar: false
 ---
 
 ::: column-body-outset-left
