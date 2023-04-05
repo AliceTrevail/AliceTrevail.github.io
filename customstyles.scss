@@ -1,5 +1,12 @@
 /*-- scss:defaults --*/
 
+// Colors
+$light-sage-green: #297373;
+$paynes-grey: #4F6D7A;
+
+// Base document colors
+$link-color: $paynes-grey; // hyperlinks 
+
 // Fonts
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Roboto:wght@300&display=swap');
 $headings-font-family:        Raleway;
