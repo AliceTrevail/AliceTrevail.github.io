@@ -1,3 +1,37 @@
 ---
 title: "Publications"
 ---
+
+##### 2022
+
+11\) Carr P, **Trevail A M**, Koldewey H, Sherley R, Wilkinson T, Wood H, & Votier S (2022) Marine Important Bird and Biodiversity Areas in the Chagos Archipelago. *Bird Conservation International,*1-8. DOI: [**10.1017/S0959270922000247** ](https://doi.org/10.1017/S0959270922000247)
+
+10\) Descamps S, Harris S M, Fluhr J, Bustamante P, Cherel Y, **Trevail A M**, Brault-Favrou M, Patrick S C (2022) Variation in Antarctic Petrel Foraging Ecology: Not All Individuals Specialize on Krill. *Frontiers in Marine Science,* 9: 809852, DOI: [**10.3389/fmars.2022.809852**](https://doi.org/10.3389/fmars.2022.809852)
+
+##### 2021
+
+9) **Trevail A M**, Green J A, Bolton M, Daunt F, Harris S M, Miller P I, Newton S, Owen E, Polton J A, Robertson G, Sharples J, Patrick S C (2021) Environmental heterogeneity promotes individual specialisation in habitat selection in a widely distributed seabird. *Journal of Animal Ecology,* 90(12): 2875-2887, DOI: [**10.1111/1365-2656.13588**](https://doi.org/10.1111/1365-2656.13588)
+
+8\) Carr P, **Trevail A M**, Bárrios S, Clubbe C, Freeman R, Koldewey H J, Votier S C, Wilkinson T, Nicoll M A C (2021) Potential benefits to breeding seabirds of converting abandoned coconut plantations to native habitats after invasive predator eradication. *Restoration Ecology,* 29(5): e13386, DOI: [**https://doi.org/10.1111/rec.13386**](https://doi.org/10.1111/rec.13386)
+
+##### 2020
+
+7) Hays G C *et al.* (2020) A review of a decade of lessons from one of the world\'s largest MPAs: conservation gains and key challenges. *Marine Biology,* 167: 159, DOI: [**10.1007/s00227-020-03776-w**](https://link.springer.com/article/10.1007%2Fs00227-020-03776-w)
+
+6\) Williams H J, Taylor L A, Benhamou S, Bijleveld A I, Clay T A, de Grissac S, Demšar U, English H M, Franconi N, Gómez‐Laich A, Griffiths R C, Kay W P, Morales J M, Potts J R, Rogerson K F, Rutz C, Spelt A, **Trevail A M**, Wilson R P, Börger L (2020) Optimising the use of bio‐loggers for movement ecology research. *Journal of Animal Ecology,* 89: 186-206, DOI: [**10.1111/1365‐2656.13094**](https://doi.org/10.1111/1365-2656.13094)
+
+5\) Busdieker K, Patrick S, **Trevail A M**, Descamps S (2020) Prey density affects predator foraging strategy in an Antarctic ecosystem. *Ecology and Evolution,* 10: 350-359, DOI: [**10.1002/ece3.5899**](https://doi.org/10.1002/ece3.5899)
+
+##### 2019
+
+4) **Trevail A M**, Green J, Sharples J, Polton J A, Miller P I, Daunt F, Owen E, Bolton M, Colhoun K, Newton S, Robertson G, Patrick S (2019) Environmental heterogeneity decreases reproductive success via effects on foraging behaviour. *Proceedings of the Royal Society B,* 286 (1904): 20190795, DOI: [**10.1098/rspb.2019.0795**](https://doi.org/10.1098/rspb.2019.0795)
+
+3) **Trevail A M,** Green J, Sharples J, Polton J, Arnould J, Patrick, S (2019) Environmental heterogeneity amplifies behavioural response to a temporal cycle. *Oikos,* 128 (4): 517-528. DOI: [**10.1111/oik.05579**](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.05579)
+
+##### 2017
+
+2\) Provencher J, Bond A, Avery-Gomm S, Borrelle S, Rebolledo E, Hammer S, Kühn S, Lavers J, Mallory M, **Trevail A M**, Van Franeker J A (2017) Quantifying ingested debris in marine megafauna: a review and recommendations for standardisation. *Analytical Methods,* 9: 1454-1469. DOI: [**10.1039/C6Ay02419J**](http://pubs.rsc.org/en/content/articlelanding/2017/ay/c6ay02419j#!divAbstract)
+
+##### 2015
+
+1\) **Trevail A M**, Gabrielsen G W, Kühn S, Van Franeker J A (2015) Elevated levels of ingested plastic in a high Arctic seabird, the northern fulmar (*Fulmarus glacialis*). *Polar Biology*, 38 (7): 975-981. DOI: [**10.1007/s00300-015-1657-4**](https://link.springer.com/article/10.1007/s00300-015-1657-4).
