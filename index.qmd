@@ -1,6 +1,11 @@
 ---
-title: "About me"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: rounded
 ---
+
+# About me
 
 My research aims to understand how the environment can shape animal movement. I am interested in where animals forage, given the complex and diverse range of opportunities within their surrounding environment.
 

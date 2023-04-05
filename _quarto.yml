@@ -4,9 +4,9 @@ project:
   
 website:
   title: "Alice Trevail"
-  favicon: /images/RFB.png
+  favicon: images/RFB.png
   navbar:
-    logo: /images/RFB.png
+    logo: images/RFB.png
     left:
       - href: index.qmd
         text: Home
