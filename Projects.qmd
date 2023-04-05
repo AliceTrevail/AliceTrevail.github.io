@@ -10,7 +10,7 @@ This project aims to understand the importance of the Marine Protected Area arou
 :::
 
 ::: column-margin
-![Red-footed booby](images/RFB_Trevail.jpg)
+![Red-footed booby](/images/RFB_Trevail.jpg)
 :::
 
 ---
@@ -24,7 +24,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 :::
 
 ::: column-margin
-![Black-legged kittiwake](images/kittiwake_Trevail.jpg)
+![Black-legged kittiwake](/images/kittiwake_Trevail.jpg)
 :::
 
 ---
@@ -36,5 +36,5 @@ Monitoring plastic ingestion by northern fulmars in the Norwegian high Arctic as
 :::
 
 ::: column-margin
-![Northern fulmar](images/fulmar_Gabrielsen.jpg)
+![Northern fulmar](/images/fulmar_Gabrielsen.jpg)
 :::
