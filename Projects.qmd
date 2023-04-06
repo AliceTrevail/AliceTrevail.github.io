@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-::: column-body-outset-left
+::: column-body
 ### Chagos & Western Indian Ocean seabirds: connectivity & conservation
 ##### Postdoctoral Research Associate, University of Exeter, 2019 - present
 
@@ -15,7 +15,7 @@ This project aims to understand the importance of the Marine Protected Area arou
 
 ---
 
-::: column-body-outset-left
+::: column-body
 ### Environmental drivers of individual and population movement strategies
 ##### PhD, University of Liverpool, 2015 - 2019
 
@@ -28,7 +28,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 :::
 
 ---
-::: column-body-outset-left
+::: column-body
 ### Seabirds & marine litter
 ##### MSci, University of Southampton & University in Svalbard, 2010 - 2014
 

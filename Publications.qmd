@@ -31,9 +31,14 @@ citations-hover: false
 
 #### 2019
 
+::: column-margin
+![](images/OIKOSCover_April2019.jpg)
+:::
+
 [@trevail_environmental_2019]
 
 [@trevail_environmental_2019-1]
+
 
 #### 2017
 
