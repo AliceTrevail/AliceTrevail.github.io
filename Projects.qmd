@@ -1,40 +1,113 @@
 ---
 title: "Projects"
+bibliography: publications.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
-::: column-body
 ### Chagos & Western Indian Ocean seabirds: connectivity & conservation
+
+::: column-margin
+![Red-footed booby, *Sula sula*. Picture my own](images/RFB_Trevail.JPG)
+:::
+
 ##### Postdoctoral Research Associate, University of Exeter, 2019 - present
 
-This project aims to understand the importance of the Marine Protected Area around the Chagos Archipelago for seabirds in the Western Indian Ocean, and is part of the Bertarelli Programme in Marine Science.
-:::
+This ongoing project is part of the Bertarelli Programme in Marine Science.
+
+**Aims:**
+
+-   To understand the importance of the Chagos Archipelago Marine Protected Area for seabirds
+
+-   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular:
+
+    -   Incidence and drivers of seabird prospecting
+    
+    -   At-sea foraging habitat suitability
+    
+    -   Status of gene-flow among seabird colonies in the CA and WIO
+    
+**Outputs so far:**
+
+[@carr_potential_2021]
+
+[@carr_marine_2023]
+
+[@hays_review_2020]
+
+
+------------------------------------------------------------------------
+
+### Environmental drivers of individual and population movement strategies
 
 ::: column-margin
-![Red-footed booby](images/RFB_Trevail.JPG)
+![Black-legged kittiwake, *Rissa tridactlya*. Picture my own](images/kittiwake_Trevail.JPG)
 :::
 
----
-
-::: column-body
-### Environmental drivers of individual and population movement strategies
 ##### PhD, University of Liverpool, 2015 - 2019
 
-I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on kittiwake habitat selection, individual consistency, and reproductive success.
+I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success.
 
-:::
+
+
+**Key findings:**
+
+-   Environmental heterogeneity:
+
+    -   Provides foraging opportunities: spatial response to temporal cycle was amplified
+
+    -   Creates competition among individuals at resource patches, with negative consequences for reproductive success
+
+    -   Promotes individual specialisation in habitat selection
+
+-   Contributed to studies of Antarctic seabird foraging ecology:
+
+    -   South polar skuas, *Catharacta maccormicki*, foraged in areas of low Antarctic petrel, *Thalassoica antarctica*, density during chick rearing, presumably because of successful chick group defense strategies 
+    
+    -   Individual consistency in foraging behaviour and space use of Antarctic petrels was linked to diet
+
+-   Contributed to review of optimising biologging methods
+
+**Outputs**
+
+[@trevail_environmental_2019-1]
+
+[@trevail_environmental_2019]
+
+[@trevail_environmental_2021]
+
+[@busdieker_prey_2020]
+
+[@descamps_variation_2022]
+
+[@williams_optimizing_2020]
+
+
+
+------------------------------------------------------------------------
+
+### Seabirds as indicators of marine litter
 
 ::: column-margin
-![Black-legged kittiwake](images/kittiwake_Trevail.JPG)
+![Northern fulmar, *Fulmaris glacialis*. Picture by Geir Wing Gabrielsen](images/fulmar_Gabrielsen.JPG)
 :::
 
----
-::: column-body
-### Seabirds & marine litter
 ##### MSci, University of Southampton & University in Svalbard, 2010 - 2014
 
-Monitoring plastic ingestion by northern fulmars in the Norwegian high Arctic as bioindicators of marine litter.
-:::
+Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the Norwegian high Arctic
 
-::: column-margin
-![Northern fulmar](images/fulmar_Gabrielsen.JPG)
-:::
+**Key findings:**
+
+-   Arctic marine litter levels were higher than expected from regional trends, and exceeded the ecological quality objective defined by OSPAR for European seas.
+
+-   Highlighted the value of seabirds as bio-indicator species within marine policy, the connectivity of the global oceans, and the need for urgent regulation of plastic pollution in the Arctic
+
+-   Contributed to ongoing monitoring and recommendation of standardised methods for quantifying debris ingestion in marine megafauna
+
+**Outputs:**
+
+[@trevail_elevated_2015]
+
+[@provencher_quantifying_2017]
