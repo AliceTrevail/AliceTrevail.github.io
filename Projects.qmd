@@ -21,21 +21,17 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 -   To understand the importance of the Chagos Archipelago Marine Protected Area for seabirds
 
--   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular:
+-   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies in the CA and WIO
 
-    -   Incidence and drivers of seabird prospecting
-    
-    -   At-sea foraging habitat suitability
-    
-    -   Status of gene-flow among seabird colonies in the CA and WIO
-    
 **Outputs so far:**
 
+::: {style="font-size:16px"}
 [@carr_potential_2021]
 
 [@carr_marine_2023]
 
 [@hays_review_2020]
+:::
 
 
 ------------------------------------------------------------------------
@@ -50,23 +46,11 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success.
 
-
-
 **Key findings:**
 
--   Environmental heterogeneity:
+-   Environmental heterogeneity most likely clusters resources into discrete patches. This provides foraging opportunity, creates competition among individuals with negative consequences for reproductive success and promotes individual specialisation in habitat selection.
 
-    -   Provides foraging opportunities: spatial response to temporal cycle was amplified
-
-    -   Creates competition among individuals at resource patches, with negative consequences for reproductive success
-
-    -   Promotes individual specialisation in habitat selection
-
--   Contributed to studies of Antarctic seabird foraging ecology:
-
-    -   South polar skuas, *Catharacta maccormicki*, foraged in areas of low Antarctic petrel, *Thalassoica antarctica*, density during chick rearing, presumably because of successful chick group defense strategies 
-    
-    -   Individual consistency in foraging behaviour and space use of Antarctic petrels was linked to diet
+-   Contributed to studies of Antarctic seabird foraging ecology
 
 -   Contributed to review of optimising biologging methods
 
@@ -76,6 +60,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 ![](images/OIKOSCover_April2019.jpg)
 :::
 
+::: {style="font-size:16px"}
 [@trevail_environmental_2019-1]
 
 [@trevail_environmental_2019]
@@ -87,8 +72,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 [@descamps_variation_2022]
 
 [@williams_optimizing_2020]
-
-
+:::
 
 ------------------------------------------------------------------------
 
@@ -112,6 +96,8 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 
 **Outputs:**
 
+::: {style="font-size:16px"}
 [@trevail_elevated_2015]
 
 [@provencher_quantifying_2017]
+:::
