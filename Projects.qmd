@@ -13,6 +13,17 @@ citations-hover: false
 ![Red-footed booby, *Sula sula*. Picture my own](images/RFB_Trevail.JPG)
 :::
 
+::: column-margin
+![ ](images/UoE.png){width=80%}
+:::
+::: column-margin
+![ ](images/bertarelli_foundation.png){width=80%}
+:::
+::: column-margin
+
+![ ](images/marine.science_logo.jpg){width=80%}
+:::
+
 ##### Postdoctoral Research Associate, University of Exeter, 2019 - present
 
 This ongoing project is part of the Bertarelli Programme in Marine Science.
@@ -42,6 +53,12 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ![Black-legged kittiwake, *Rissa tridactlya*. Picture my own](images/kittiwake_Trevail.JPG)
 :::
 
+::: column-margin
+![ ](images/UoL.jpg){width=80%}
+:::
+::: column-margin
+![ ](images/nerc.png.webp){width=80%}
+:::
 ##### PhD, University of Liverpool, 2015 - 2019
 
 I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success.
@@ -82,6 +99,12 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 ![Northern fulmar, *Fulmaris glacialis*. Picture by Geir Wing Gabrielsen](images/fulmar_Gabrielsen.JPG)
 :::
 
+::: column-margin
+![ ](images/UoS.svg.png){width=80%}
+:::
+::: column-margin
+![ ](images/UNIS.png.webp){width=80%}
+:::
 ##### MSci, University of Southampton & University in Svalbard, 2010 - 2014
 
 Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the Norwegian high Arctic
