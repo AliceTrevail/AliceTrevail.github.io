@@ -78,10 +78,6 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 ::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Outputs
 
-::: column-margin
-![](images/OIKOSCover_April2019.jpg)
-:::
-
 ::: {style="font-size:16px"}
 [@trevail_environmental_2019-1]
 
