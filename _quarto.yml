@@ -12,8 +12,8 @@ website:
         text: Home
       - href: Projects.qmd
         text: Projects
-#      - href: Publications.qmd
-#        text: Publications
+      - href: Publications.qmd
+        text: Publications
   page-footer:
     center: 
       - icon: mortarboard-fill

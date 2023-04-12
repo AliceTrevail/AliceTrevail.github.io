@@ -34,7 +34,9 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 -   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies in the CA and WIO
 
-**Outputs so far:**
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Outputs
 
 ::: {style="font-size:16px"}
 [@carr_potential_2021]
@@ -44,6 +46,7 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 [@hays_review_2020]
 :::
 
+:::
 
 ------------------------------------------------------------------------
 
@@ -71,7 +74,9 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
 -   Contributed to review of optimising biologging methods
 
-**Outputs**
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Outputs
 
 ::: column-margin
 ![](images/OIKOSCover_April2019.jpg)
@@ -91,6 +96,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 [@williams_optimizing_2020]
 :::
 
+:::
 ------------------------------------------------------------------------
 
 ### Seabirds as indicators of marine litter
@@ -117,10 +123,13 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 
 -   Contributed to ongoing monitoring and recommendation of standardised methods for quantifying debris ingestion in marine megafauna
 
-**Outputs:**
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Outputs
 
 ::: {style="font-size:16px"}
 [@trevail_elevated_2015]
 
 [@provencher_quantifying_2017]
+:::
+
 :::
