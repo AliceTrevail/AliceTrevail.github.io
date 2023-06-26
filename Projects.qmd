@@ -7,6 +7,30 @@ link-citations: false
 citations-hover: false
 ---
 
+### ExMove: An open-source toolkit for processing and exploring animal tracking data in R
+
+::: column-margin
+![](images/ExMove_hex_sticker.png)
+:::
+
+::: column-margin
+![](images/UoE.png){width="80%"}
+:::
+
+Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a toolkit for processing biologging data from tag downloads to online archive
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Key publications
+
+::: {style="font-size:16px"}
+[@liampatricklangley2023]
+:::
+:::
+
+ 
+
+------------------------------------------------------------------------
+
 ### Chagos & Western Indian Ocean seabirds: connectivity & conservation
 
 ::: column-margin
@@ -14,14 +38,15 @@ citations-hover: false
 :::
 
 ::: column-margin
-![ ](images/UoE.png){width=80%}
+![](images/UoE.png){width="80%"}
 :::
-::: column-margin
-![ ](images/bertarelli_foundation.png){width=80%}
-:::
-::: column-margin
 
-![ ](images/marine.science_logo.jpg){width=80%}
+::: column-margin
+![](images/bertarelli_foundation.png){width="80%"}
+:::
+
+::: column-margin
+![](images/marine.science_logo.jpg){width="80%"}
 :::
 
 ##### Postdoctoral Research Associate, University of Exeter, 2019 - present
@@ -34,9 +59,8 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 -   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies in the CA and WIO
 
-
 ::: {.callout-tip collapse="true" appearance="minimal"}
-##### Outputs
+##### Key publications
 
 ::: {style="font-size:16px"}
 [@carr_potential_2021]
@@ -45,8 +69,9 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 [@hays_review_2020]
 :::
-
 :::
+
+ 
 
 ------------------------------------------------------------------------
 
@@ -57,11 +82,13 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 :::
 
 ::: column-margin
-![ ](images/UoL.jpg){width=80%}
+![](images/UoL.jpg){width="80%"}
 :::
+
 ::: column-margin
-![ ](images/nerc.png.webp){width=80%}
+![](images/nerc.png.webp){width="80%"}
 :::
+
 ##### PhD, University of Liverpool, 2015 - 2019
 
 I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success.
@@ -74,9 +101,8 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
 -   Contributed to review of optimising biologging methods
 
-
 ::: {.callout-tip collapse="true" appearance="minimal"}
-##### Outputs
+##### Key publications
 
 ::: {style="font-size:16px"}
 [@trevail_environmental_2019-1]
@@ -91,8 +117,10 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
 [@williams_optimizing_2020]
 :::
-
 :::
+
+ 
+
 ------------------------------------------------------------------------
 
 ### Seabirds as indicators of marine litter
@@ -102,11 +130,13 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 :::
 
 ::: column-margin
-![ ](images/UoS.svg.png){width=80%}
+![](images/UoS.svg.png){width="80%"}
 :::
+
 ::: column-margin
-![ ](images/UNIS.png.webp){width=80%}
+![](images/UNIS.png.webp){width="80%"}
 :::
+
 ##### MSci, University of Southampton & University in Svalbard, 2010 - 2014
 
 Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the Norwegian high Arctic
@@ -120,12 +150,11 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 -   Contributed to ongoing monitoring and recommendation of standardised methods for quantifying debris ingestion in marine megafauna
 
 ::: {.callout-tip collapse="true" appearance="minimal"}
-##### Outputs
+##### Key publications
 
 ::: {style="font-size:16px"}
 [@trevail_elevated_2015]
 
 [@provencher_quantifying_2017]
 :::
-
 :::
