@@ -9,6 +9,12 @@ citations-hover: false
 
 #### 2023
 
+[@votier2023]
+
+[@langley2023]
+
+[@grémillet2023]
+
 [@carr_marine_2023]
 
 #### 2022
@@ -38,7 +44,6 @@ citations-hover: false
 [@trevail_environmental_2019]
 
 [@trevail_environmental_2019-1]
-
 
 #### 2017
 
