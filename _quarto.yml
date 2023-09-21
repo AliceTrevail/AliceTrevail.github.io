@@ -29,6 +29,7 @@ website:
 format:
   html:
     theme: 
+      - flatly
       - customstyles.scss
     css: styles.css
     toc: true
