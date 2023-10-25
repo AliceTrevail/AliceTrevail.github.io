@@ -6,52 +6,50 @@ about:
   image-shape: round
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
 # About me
 
-My research aims to understand how the environment can shape animal movement. I am interested in where animals forage, given the complex and diverse range of opportunities within their surrounding environment.
-
-I am currently a Post-doctoral Research Fellow at the University of Exeter, in Cornwall
-
-::: 
+I research how animals move and interact with the environment, and what this means for their effective conservation. I am interested in where animals forage, given the complex range of available opportunities.
+:::
 
 ### Background
 
-::: {.grid}
-::: {.g-col-3}
+::: grid
+::: g-col-3
 2023 - present
 :::
-::: {.g-col-8}
+
+::: g-col-8
 Postdoctoral Research Fellow, University of Exeter
 :::
 :::
 
-
-::: {.grid}
-::: {.g-col-3}
+::: grid
+::: g-col-3
 2019 - 2023
 :::
-::: {.g-col-8}
+
+::: g-col-8
 Postdoctoral Research Associate, University of Exeter
 :::
 :::
 
-
-::: {.grid}
-::: {.g-col-3}
+::: grid
+::: g-col-3
 2015 - 2019
 :::
-::: {.g-col-8}
+
+::: g-col-8
 PhD, University of Liverpool
 :::
 :::
 
-
-::: {.grid}
-::: {.g-col-3}
+::: grid
+::: g-col-3
 2010 - 2014
 :::
-::: {.g-col-8}
+
+::: g-col-8
 MSci, University of Southampton & University in Svalbard
 :::
 :::

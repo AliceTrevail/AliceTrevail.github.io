@@ -12,6 +12,8 @@ website:
         text: Home
       - href: Projects.qmd
         text: Projects
+      - href: People.qmd
+        text: People
       - href: Publications.qmd
         text: Publications
   page-footer:

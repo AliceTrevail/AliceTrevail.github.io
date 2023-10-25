@@ -1,0 +1,59 @@
+---
+title: "People"
+bibliography: publications.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+### Current students
+
+##### PhD
+
+::: grid
+::: g-col-3
+**Vance Mak (2023-2027)**
+:::
+
+::: g-col-8
+Predicting regional vulnerability of threatened seabirds to offshore wind. Co-supervisor, alongside Cat Horswill (ZSL/UCL), Richard Sherley (UoE), Simon Neill (Bangor University), Sion Roberts (The Crown Estate) and Stu Bearhop (UoE). *PhD, University of Exeter*
+:::
+:::
+
+
+::: grid
+::: g-col-3
+**Debs Allbrook (2022-2026)**
+:::
+
+::: g-col-8
+Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside Richard Sherley (UoE), Richard Delahay (RSKBiocensus), John Swaddle (College of William & Mary),  Stu Bearhop (UoE) and Robbie McDonald (UoE).  *PhD, University of Exeter*
+:::
+:::
+
+
+### Alumni
+
+##### Masters
+
+::: grid
+::: g-col-3
+**Grace Corcoran (2022)**
+:::
+
+::: g-col-8
+Migratory ecology of red-footed boobies in the Indian Ocean. *MSc Conservation & Biodiversity, University of Exeter*
+:::
+:::
+
+
+::: grid
+::: g-col-3
+**Sonia Vallocchia (2020)**
+:::
+
+::: g-col-8
+Foraging ecology of brown boobies in the Indian Ocean. *MRes Wild Animal Biology, Royal Veterinary College & Zoological Society of London*
+:::
+:::
