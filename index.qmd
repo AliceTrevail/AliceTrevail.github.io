@@ -9,7 +9,8 @@ about:
 ::: {#hero-heading}
 # About me
 
-I research how animals move and interact with the environment, and what this means for their effective conservation. I am interested in where animals forage, given the complex range of available opportunities.
+I am interested in how animals move and interact with the environment, and what this means for their effective conservation. My research predominately focuses on using bio-logging data to map and predict species distributions, from individual to assemblage levels.
+
 :::
 
 ### Background
@@ -20,7 +21,7 @@ I research how animals move and interact with the environment, and what this mea
 :::
 
 ::: g-col-8
-Postdoctoral Research Fellow, University of Exeter
+Postdoctoral Research Fellow, University of Exeter, Penryn Campus
 :::
 :::
 
@@ -30,7 +31,7 @@ Postdoctoral Research Fellow, University of Exeter
 :::
 
 ::: g-col-8
-Postdoctoral Research Associate, University of Exeter
+Postdoctoral Research Associate, University of Exeter, Penryn Campus
 :::
 :::
 
