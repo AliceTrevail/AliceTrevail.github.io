@@ -16,6 +16,8 @@ website:
         text: People
       - href: Publications.qmd
         text: Publications
+      - href: Data.qmd
+        text: Reproducible research
   page-footer:
     center: 
       - icon: mortarboard-fill

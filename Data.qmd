@@ -1,0 +1,30 @@
+---
+title: "Open and Reproducible Science"
+bibliography: publications.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+I am involved in open and reproducible science initiatives, including ExMove: an open-source toolkit for processing biologging data, and the Exeter Data Analytics Hub at the University of Exeter. 
+
+### ExMove toolkit
+
+::: column-margin
+![](images/ExMove_hex_sticker.png){width="50%"}
+:::
+
+Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a toolkit for processing biologging data from tag downloads to online archive. All resources and code can be accessed via the [ExMove website](https://exmove.github.io/) and [GitHub repository](https://github.com/ExMove/ExMove).
+
+### Exeter Data Analytics Hub
+
+::: column-margin
+![](images/ExeDataHub_hex_sticker.png){width="50%"}
+:::
+
+I am part of a team of Early Career Researchers promoting open and reproducible data science at the University of Exeter's penryn campus by delivering monthly workshops and talks, and sharing computer programming. Find upcoming and previous talks, alongside useful introductions and walkthroughs on common research programming activities, on the [ExeDataHub website](https://exeter-data-analytics.github.io/).
+
+### R Code
+
+Find the code for this website and my previous projects via [my GitHub page](https://github.com/AliceTrevail)

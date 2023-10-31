@@ -26,5 +26,12 @@
     "title": "People",
     "section": "",
     "text": "Current students\n\nPhD\n\n\nVance Mak (2023-2027)\n\n\nPredicting regional vulnerability of threatened seabirds to offshore wind. Co-supervisor, alongside Cat Horswill (ZSL/UCL), Richard Sherley (UoE), Simon Neill (Bangor University), Sion Roberts (The Crown Estate) and Stu Bearhop (UoE). PhD, University of Exeter\n\n\n\n\nDebs Allbrook (2022-2026)\n\n\nEcology and management of offshore-breeding kittiwakes. Co-supervisor, alongside Richard Sherley (UoE), Richard Delahay (RSKBiocensus), John Swaddle (College of William & Mary), Stu Bearhop (UoE) and Robbie McDonald (UoE). PhD, University of Exeter\n\n\n\n\n\nAlumni\n\nMasters\n\n\nGrace Corcoran (2022)\n\n\nMigratory ecology of red-footed boobies in the Indian Ocean. MSc Conservation & Biodiversity, University of Exeter\n\n\n\n\nSonia Vallocchia (2020)\n\n\nForaging ecology of brown boobies in the Indian Ocean. MRes Wild Animal Biology, Royal Veterinary College & Zoological Society of London"
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Open and Reproducible Science",
+    "section": "",
+    "text": "I am involved in open and reproducible science initiatives, including ExMove: an open-source toolkit for processing biologging data, and the Exeter Data Analytics Hub at the University of Exeter.\n\nExMove toolkit\n\n\n\nAlongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a toolkit for processing biologging data from tag downloads to online archive. All resources and code can be accessed via the ExMove website and GitHub repository.\n\n\nExeter Data Analytics Hub\n\n\n\nI am part of a team of Early Career Researchers promoting open and reproducible data science at the University of Exeter’s penryn campus by delivering monthly workshops and talks, and sharing computer programming. Find upcoming and previous talks, alongside useful introductions and walkthroughs on common research programming activities, on the ExeDataHub website.\n\n\nR Code\nFind the code for this website and my previous projects via my GitHub page"
   }
 ]
