@@ -73,6 +73,8 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ##### Key publications
 
 ::: {style="font-size:16px"}
+[@trevail2023]
+
 [@carr_potential_2021]
 
 [@carr_marine_2023]
@@ -123,8 +125,6 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
  
 
-
-
 ------------------------------------------------------------------------
 
 ### Polar seabird monitoring and foraging ecology
@@ -136,7 +136,6 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 ::: column-margin
 ![](images/NP-logo.png){width="60%"}
 :::
-
 
 I joined the Norwegian Polar Institute on expeditions to the Antarctic ([Tor field station](https://www.npolar.no/en/tor/)) and Arctic (Svalbard) to help with regular seabird monitoring, and foraging ecology studies.
 
