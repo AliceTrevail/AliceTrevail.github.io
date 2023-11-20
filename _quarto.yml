@@ -14,10 +14,10 @@ website:
         text: Projects
       - href: People.qmd
         text: People
-      - href: Publications.qmd
-        text: Publications
       - href: Data.qmd
         text: Reproducible research
+      - href: Publications.qmd
+        text: Publications
   page-footer:
     center: 
       - icon: mortarboard-fill

@@ -7,8 +7,6 @@ link-citations: false
 citations-hover: false
 ---
 
-I am involved in open and reproducible science initiatives, including ExMove: an open-source toolkit for processing biologging data, and the Exeter Data Analytics Hub at the University of Exeter. 
-
 ### ExMove toolkit
 
 ::: column-margin
@@ -23,7 +21,7 @@ Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a 
 ![](images/ExeDataHub_hex_sticker.png){width="50%"}
 :::
 
-I am part of a team of Early Career Researchers promoting open and reproducible data science at the University of Exeter's penryn campus by delivering monthly workshops and talks, and sharing computer programming resources. Find upcoming and previous talks, alongside useful introductions and walkthroughs on common research programming activities, on the [ExeDataHub website](https://exeter-data-analytics.github.io/).
+I am part of a team of Early Career Researchers promoting open and reproducible data science at the University of Exeter's penryn campus by delivering monthly workshops and talks, and sharing reproducible coding resources. Find upcoming and previous talks, alongside useful introductions and walkthroughs on common research programming activities, on the [ExeDataHub website](https://exeter-data-analytics.github.io/).
 
 ### R Code
 
