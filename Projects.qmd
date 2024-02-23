@@ -37,9 +37,9 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ##### Key publications
 
 ::: {style="font-size:16px"}
-[@trevail2023]
+[@trevail2023c]
 
-[@trevail2023a]
+[@trevail2023b]
 
 [@carr_potential_2021]
 

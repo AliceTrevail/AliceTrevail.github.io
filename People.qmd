@@ -13,7 +13,7 @@ citations-hover: false
 
 ::: grid
 ::: g-col-3
-**Vance Mak (2023-2027)**
+[**Vance Mak**](https://www.exeter.ac.uk/research/esi/people/profile/index.php?web_id=Vance_Mak) **(2023-2027)**
 :::
 
 ::: g-col-8
@@ -21,18 +21,49 @@ Predicting regional vulnerability of threatened seabirds to offshore wind. Co-su
 :::
 :::
 
-
 ::: grid
 ::: g-col-3
-**Debs Allbrook (2022-2026)**
+[**Debs Allbrook**](https://ecologyconservation.exeter.ac.uk/staff/profile/index.php?web_id=Debs_Allbrook) **(2022-2026)**
 :::
 
 ::: g-col-8
-Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside Richard Sherley (UoE), Richard Delahay (RSKBiocensus), John Swaddle (College of William & Mary),  Stu Bearhop (UoE) and Robbie McDonald (UoE).  *PhD, University of Exeter*
+Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside Richard Sherley (UoE), Richard Delahay (RSKBiocensus), John Swaddle (College of William & Mary), Stu Bearhop (UoE) and Robbie McDonald (UoE). *PhD, University of Exeter*
+:::
+:::
+
+##### Masters
+
+
+::: grid
+::: g-col-3
+**Joshua Coste (2024)**
+:::
+
+::: g-col-8
+Red-footed booby navigation at-sea. *Master in Biodiversity, Ecology, Evolution, University of La Réunion*
+:::
+:::
+
+::: grid
+::: g-col-3
+**Kath O'Brien (2024)**
+:::
+
+::: g-col-8
+Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc Marine Vertebrate Ecology and Conservation, University of Exeter*
 :::
 :::
 
 
+::: grid
+::: g-col-3
+**Millie Thatcher (2024)**
+:::
+
+::: g-col-8
+Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc Marine Vertebrate Ecology and Conservation, University of Exeter*
+:::
+:::
 ### Alumni
 
 ##### Masters
@@ -46,7 +77,6 @@ Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside
 Migratory ecology of red-footed boobies in the Indian Ocean. *MSc Conservation & Biodiversity, University of Exeter*
 :::
 :::
-
 
 ::: grid
 ::: g-col-3

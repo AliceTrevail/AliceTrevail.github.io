@@ -10,7 +10,6 @@ about:
 # About me
 
 I am interested in how animals move and interact with the environment, and what this means for their effective conservation. My research predominately focuses on using bio-logging data to map and predict species distributions, from individual to assemblage levels.
-
 :::
 
 ### Background

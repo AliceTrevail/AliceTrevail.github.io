@@ -15,9 +15,9 @@ citations-hover: false
 
 #### 2023
 
-[@trevail2023]
+[@trevail2023c]
 
-[@trevail2023a]
+[@trevail2023b]
 
 [@grémillet2023a]
 
