@@ -13,6 +13,16 @@ citations-hover: false
 
 ::: grid
 ::: g-col-3
+**Sabiya Sheikh (2024-2028)**
+:::
+
+::: g-col-8
+Mapping forage fish and seabird interactions on the Isles of Scilly to inform conservation. Co-supervisor, alongside Kristian Metcalfe (UoE) and Richard Sherley (UoE). *PhD, University of Exeter*
+:::
+:::
+
+::: grid
+::: g-col-3
 [**Vance Mak**](https://www.exeter.ac.uk/research/esi/people/profile/index.php?web_id=Vance_Mak) **(2023-2027)**
 :::
 

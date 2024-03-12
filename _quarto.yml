@@ -19,7 +19,7 @@ website:
       - href: Publications.qmd
         text: Publications
   page-footer:
-    center: 
+    left: 
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?user=mKYlUsUAAAAJ&hl=en
       - icon: github
@@ -30,8 +30,9 @@ website:
         href: https://twitter.com/AliceTrevail
       - icon: envelope-fill
         href: https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Alice_Trevail
-    
-    
+    right:
+      - text: "© 2024 Alice Trevail | All rights reserved"
+      
 format:
   html:
     theme: 
