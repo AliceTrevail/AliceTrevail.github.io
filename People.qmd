@@ -13,7 +13,7 @@ citations-hover: false
 
 ::: grid
 ::: g-col-3
-**Sabiya Sheikh (2024-2028)**
+[**Sabiya Sheikh**](https://ecologyconservation.exeter.ac.uk/people/profile/index.php?web_id=Sabiya_Sheikh) **(2024-2028)**
 :::
 
 ::: g-col-8

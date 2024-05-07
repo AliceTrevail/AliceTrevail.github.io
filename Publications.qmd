@@ -9,9 +9,15 @@ citations-hover: false
 
 #### Pre-print
 
+[@trevail2024]
+
 [@votier2023]
 
 [@langley2023]
+
+#### 2024
+
+[@dunn2024]
 
 #### 2023
 
