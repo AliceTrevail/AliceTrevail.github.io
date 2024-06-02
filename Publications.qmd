@@ -11,11 +11,11 @@ citations-hover: false
 
 [@trevail2024]
 
-[@votier2023]
-
 [@langley2023]
 
 #### 2024
+
+[@votier2024]
 
 [@dunn2024]
 
