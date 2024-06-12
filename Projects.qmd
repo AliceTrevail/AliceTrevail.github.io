@@ -83,7 +83,7 @@ Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a 
 ##### Key publications
 
 ::: {style="font-size:16px"}
-[@liampatricklangley2023]
+[@langley2024]
 :::
 :::
 

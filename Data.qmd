@@ -13,7 +13,7 @@ citations-hover: false
 ![](images/ExMove_hex_sticker.png){width="50%"}
 :::
 
-Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a toolkit for processing biologging data from tag downloads to online archive. All resources and code can be accessed via the [ExMove website](https://exmove.github.io/) and [GitHub repository](https://github.com/ExMove/ExMove).
+Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a toolkit for processing biologging data from tag downloads to online archive. Read the open access publication at Journal of Animal Ecology: [Langley et al 2024](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14111). All resources and code can be accessed via the [ExMove website](https://exmove.github.io/) and [GitHub repository](https://github.com/ExMove/ExMove).
 
 ### Exeter Data Analytics Hub
 

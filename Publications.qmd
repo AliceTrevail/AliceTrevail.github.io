@@ -11,9 +11,9 @@ citations-hover: false
 
 [@trevail2024]
 
-[@langley2023]
-
 #### 2024
+
+[@langley2024]
 
 [@votier2024]
 
