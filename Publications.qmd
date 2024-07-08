@@ -13,7 +13,9 @@ citations-hover: false
 
 #### 2024
 
-[@langley2024]
+[@kressler2024]
+
+[@langley2024a]
 
 [@votier2024]
 
