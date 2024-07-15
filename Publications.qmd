@@ -9,9 +9,11 @@ citations-hover: false
 
 #### Pre-print
 
-[@trevail2024]
+[@miller2023]
 
 #### 2024
+
+[@trevail2024a]
 
 [@kressler2024]
 

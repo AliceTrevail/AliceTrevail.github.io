@@ -37,11 +37,19 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ##### Key publications
 
 ::: {style="font-size:16px"}
+###### Indian Ocean seabird distributions:
+
 [@trevail2023c]
+
+###### Tropical seabird foraging ecology:
 
 [@trevail2023b]
 
 [@dunn2024]
+
+[@trevail2024a]
+
+###### MPAs, seabird conservation, & terrestrial restoration:
 
 [@carr_potential_2021]
 
