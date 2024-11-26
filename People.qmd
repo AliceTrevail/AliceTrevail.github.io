@@ -41,8 +41,9 @@ Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside
 :::
 :::
 
-##### Masters
+### Alumni
 
+##### Masters
 
 ::: grid
 ::: g-col-3
@@ -51,6 +52,8 @@ Ecology and management of offshore-breeding kittiwakes. Co-supervisor, alongside
 
 ::: g-col-8
 Red-footed booby navigation at-sea. *Master in Biodiversity, Ecology, Evolution, University of La Réunion*
+
+Thesis accepted in Animal Behaviour
 :::
 :::
 
@@ -64,7 +67,6 @@ Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc M
 :::
 :::
 
-
 ::: grid
 ::: g-col-3
 **Millie Thatcher (2024)**
@@ -74,9 +76,6 @@ Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc M
 Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc Marine Vertebrate Ecology and Conservation, University of Exeter*
 :::
 :::
-### Alumni
-
-##### Masters
 
 ::: grid
 ::: g-col-3
@@ -85,6 +84,16 @@ Seabird foraging behaviour to inform conservation on the Isles of Scilly. *MSc M
 
 ::: g-col-8
 Migratory ecology of red-footed boobies in the Indian Ocean. *MSc Conservation & Biodiversity, University of Exeter*
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Published thesis
+
+::: {style="font-size:16px"}
+
+[@votier2023]
+
+:::
+:::
 :::
 :::
 
@@ -95,5 +104,13 @@ Migratory ecology of red-footed boobies in the Indian Ocean. *MSc Conservation &
 
 ::: g-col-8
 Foraging ecology of brown boobies in the Indian Ocean. *MRes Wild Animal Biology, Royal Veterinary College & Zoological Society of London*
+
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Published thesis
+
+::: {style="font-size:16px"}
+[@trevail2024a]
+:::
+:::
 :::
 :::
