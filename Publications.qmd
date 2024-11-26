@@ -7,9 +7,6 @@ link-citations: false
 citations-hover: false
 ---
 
-#### Pre-print
-
-[@miller2023]
 
 #### 2024
 
@@ -20,6 +17,10 @@ citations-hover: false
 [@langley2024a]
 
 [@votier2024]
+
+::: column-margin
+![](images/JAB_COVER_Sep-Oct-2024.jpg)
+:::
 
 [@dunn2024]
 
@@ -32,6 +33,8 @@ citations-hover: false
 [@grémillet2023a]
 
 [@carr_marine_2023]
+
+[@miller2023]
 
 #### 2022
 
@@ -53,13 +56,13 @@ citations-hover: false
 
 #### 2019
 
-::: column-margin
-![](images/OIKOSCover_April2019.jpg)
-:::
-
 [@trevail_environmental_2019]
 
 [@trevail_environmental_2019-1]
+
+::: column-margin
+![](images/OIKOSCover_April2019.jpg)
+:::
 
 #### 2017
 
