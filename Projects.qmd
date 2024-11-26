@@ -37,11 +37,13 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ##### Key publications
 
 ::: {style="font-size:16px"}
-###### Indian Ocean seabird distributions:
+#### Indian Ocean seabird distributions:
 
 [@trevail2023c]
 
-###### Tropical seabird foraging ecology:
+[@votier2023]
+
+#### Tropical seabird foraging ecology:
 
 [@trevail2023b]
 
@@ -49,7 +51,7 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 
 [@trevail2024a]
 
-###### MPAs, seabird conservation, & terrestrial restoration:
+#### MPAs, seabird conservation, & terrestrial restoration:
 
 [@carr_potential_2021]
 
@@ -58,6 +60,49 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 [@hays_review_2020]
 :::
 :::
+
+ 
+
+------------------------------------------------------------------------
+
+### Isles of Scilly Seabirds: distributions, resource availability, and ecosystem roles
+
+::: column-margin
+![European shag, *Phalacrocorax aristotelis*. Picture my own](images/Europeanshag_Trevail.JPG)
+:::
+
+::: column-margin
+![](images/UoE.png){width="60%"}
+:::
+
+This ongoing project is a collaboration with the Isles of Scilly Wildlife Trust, the Isles of Scilly Inshore Fisheries and Conservation Authority, and Natural England.
+
+**Aims:**
+
+-   To understand the at-sea distributions of seabirds and their prey fish on the Isles of Scilly, an archipelago off the southwest UK, to inform their spatial protection. Led by PhD student Sabiya Sheikh.
+
+-   To understand the role of Isles of Scilly seabirds as ecosystem engineers to inform future restoration actions
+
+ 
+
+
+------------------------------------------------------------------------
+
+### Kittiwakes and offshore energy developments
+
+::: column-margin
+![Black-legged kittiwake, *Rissa tridactyla*. Picture my own](images/urban_kittiwake_Trevail.JPG)
+:::
+
+::: column-margin
+![](images/UoE.png){width="60%"}
+:::
+
+**Aims:**
+
+-   To understand use of offshore oil rigs as breeding habitats for kittiwakes. Multiple projects led by former UoE masters student Anna Lowden and current UoE PhD student Debs Allbrook.
+
+-   To understand year-round distributions of the North Atlantic kittiwake metapopulation to inform future offshore renewable consenting. Led by PhD student Vance Mak
 
  
 
