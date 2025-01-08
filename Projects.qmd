@@ -7,7 +7,7 @@ link-citations: false
 citations-hover: false
 ---
 
-### Chagos & Western Indian Ocean seabirds: connectivity & conservation
+### Indian Ocean seabird connectivity & conservation
 
 ::: column-margin
 ![Red-footed booby, *Sula sula*. Picture my own](images/RFB_Trevail.JPG)
@@ -25,13 +25,15 @@ citations-hover: false
 ![](images/marine.science_logo.jpg){width="60%"}
 :::
 
-This ongoing project is part of the Bertarelli Programme in Marine Science.
+We are exploring the drivers of tropical seabird distributions and dispersal, to inform effective conservation strategies in the Western Indian Ocean. The Western Indian Ocean supports ~19 million seabirds of 30 species across 54 colonies, making it one of the most important tropical seabird assemblages in the world.
+
+This ongoing project is part of the [Bertarelli Programme in Marine Science](https://www.marine.science/project/birds-without-borders-or-isolated-islands-connectivity-of-western-indian-ocean-seabirds/).
 
 **Aims:**
 
--   To understand the importance of the Chagos Archipelago Marine Protected Area for seabirds
+-   To evaluate the foraging and migratory ecology of tropical seabirds, and the consequent value of regional Marine Protected Areas.
 
--   To understand the causes and consequences of seabird connectivity across the Western Indian Ocean. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies in the CA and WIO
+-   To understand the causes and consequences of seabird connectivity in tropical environments. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies across the Western Indian Ocean.
 
 ::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
@@ -75,11 +77,13 @@ This ongoing project is part of the Bertarelli Programme in Marine Science.
 ![](images/UoE.png){width="60%"}
 :::
 
-This ongoing project is a collaboration with the Isles of Scilly Wildlife Trust, the Isles of Scilly Inshore Fisheries and Conservation Authority, and Natural England.
+The Isles of Scilly is an archipelago off the South-West UK, home to an internationally important assemblage of 13 seabird species. Our project uses seabirds as indicators of ecosystem health, and aims to quantify seabirds' role as ecosystem engineers, to tackle key threats to their breeding success: invasive predators and climate- and fisheries-induced changes in prey availability.
+
+This ongoing project is a collaboration with the Isles of Scilly Wildlife Trust, the Isles of Scilly Inshore Fisheries and Conservation Authority, Natural England, and the RSPB.
 
 **Aims:**
 
--   To understand the at-sea distributions of seabirds and their prey fish on the Isles of Scilly, an archipelago off the southwest UK, to inform their spatial protection. Led by PhD student Sabiya Sheikh.
+-   To understand the at-sea distributions of seabirds and their prey fish on the Isles of Scilly to inform their spatial protection. Led by PhD student Sabiya Sheikh.
 
 -   To understand the role of Isles of Scilly seabirds as ecosystem engineers to inform future restoration actions
 
@@ -98,9 +102,11 @@ This ongoing project is a collaboration with the Isles of Scilly Wildlife Trust,
 ![](images/UoE.png){width="60%"}
 :::
 
+The now Critically Endangered Black-legged kittiwake, *Rissa tridactyla*, has experienced widespread declines across the UK. Conservation focus is shifting offshore amid marine renewable developments that require impact assessment and offsetting, and the decommissioning and re-purposing of end-of-life oil and gas platforms. Offshore structures could support a significant kittiwake breeding population, not currently included in current population estimates.
+
 **Aims:**
 
--   To understand use of offshore oil rigs as breeding habitats for kittiwakes. Multiple projects led by former UoE masters student Anna Lowden and current UoE PhD student Debs Allbrook.
+-   To understand the importance of offshore oil rigs as breeding habitats for kittiwakes. Multiple projects led by former UoE masters student Anna Lowden and current UoE PhD student Debs Allbrook.
 
 -   To understand year-round distributions of the North Atlantic kittiwake metapopulation to inform future offshore renewable consenting. Led by PhD student Vance Mak
 
