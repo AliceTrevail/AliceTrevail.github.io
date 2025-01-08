@@ -8,6 +8,11 @@ citations-hover: false
 ---
 
 
+#### 2025
+Exeter, O., Branscombe, J., Broderick, A., Hooper, T., Russell, T., Sugar, K., Trevail, A. M., Webber, J., Metcalfe, K. (In press). Fine-scale multi-method mapping of ocean user groups using satellite AIS to quantify cumulative vessel impacts. *Marine Policy*
+
+Coste, J., Votier, S. C., Dunn, R. E., Freeman, R., Nicoll, M. A. C., Carr, P., Wood, H., Trevail, A. M. (In press). Homing navigation is optimised to diurnal constraints in a tropical seabird, the red-footed booby. *Animal Behaviour*
+
 #### 2024
 
 [@trevail2024a]
