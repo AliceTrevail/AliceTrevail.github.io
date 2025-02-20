@@ -26,12 +26,10 @@ website:
         href: https://github.com/AliceTrevail
       - icon: square
         href: https://bsky.app/profile/alicetrevail.bsky.social
-      - icon: twitter
-        href: https://twitter.com/AliceTrevail
       - icon: envelope-fill
         href: https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Alice_Trevail
     right:
-      - text: "© 2024 Alice Trevail | All rights reserved"
+      - text: "© 2025 Alice Trevail | All rights reserved"
       
 format:
   html:
