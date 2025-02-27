@@ -65,7 +65,13 @@ Seabird-vectored nutrient enrichment around a UK offshore archipelago. *MSc Mari
 ::: g-col-8
 Red-footed booby navigation at-sea. *Master in Biodiversity, Ecology, Evolution, University of La Réunion*
 
-Thesis accepted in Animal Behaviour
+::: {.callout-tip collapse="true" appearance="minimal"}
+##### Published thesis
+
+::: {style="font-size:16px"}
+[@coste2025]
+:::
+:::
 :::
 :::
 

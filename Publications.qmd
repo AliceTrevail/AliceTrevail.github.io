@@ -9,7 +9,7 @@ citations-hover: false
 
 #### 2025
 
-Coste, J., Votier, S. C., Dunn, R. E., Freeman, R., Nicoll, M. A. C., Carr, P., Wood, H., Trevail, A. M. (In press). Homing navigation is optimised to diurnal constraints in a tropical seabird, the red-footed booby. *Animal Behaviour*
+[@coste2025]
 
 [@exeter2025]
 

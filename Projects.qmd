@@ -25,7 +25,7 @@ citations-hover: false
 ![](images/marine.science_logo.jpg){width="60%"}
 :::
 
-We are exploring the drivers of tropical seabird distributions and dispersal, to inform effective conservation strategies in the Western Indian Ocean. The Western Indian Ocean supports ~19 million seabirds of 30 species across 54 colonies, making it one of the most important tropical seabird assemblages in the world.
+We are exploring the drivers of tropical seabird distributions and dispersal, to inform effective conservation strategies in the Western Indian Ocean. The Western Indian Ocean supports \~19 million seabirds of 30 species across 54 colonies, making it one of the most important tropical seabird assemblages in the world.
 
 This ongoing project is part of the [Bertarelli Programme in Marine Science](https://www.marine.science/project/birds-without-borders-or-isolated-islands-connectivity-of-western-indian-ocean-seabirds/).
 
@@ -35,7 +35,7 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 
 -   To understand the causes and consequences of seabird connectivity in tropical environments. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies across the Western Indian Ocean.
 
-::: {.callout-tip collapse="true" appearance="minimal"}
+:::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
 
 ::: {style="font-size:16px"}
@@ -53,6 +53,8 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 
 [@trevail2024a]
 
+[@coste2025]
+
 #### MPAs, seabird conservation, & terrestrial restoration:
 
 [@carr_potential_2021]
@@ -61,7 +63,7 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 
 [@hays_review_2020]
 :::
-:::
+::::
 
  
 
@@ -88,7 +90,6 @@ This ongoing project is a collaboration with the Isles of Scilly Wildlife Trust,
 -   To understand the role of Isles of Scilly seabirds as ecosystem engineers to inform future restoration actions
 
  
-
 
 ------------------------------------------------------------------------
 
@@ -138,13 +139,13 @@ Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a 
 
 -   Provide open source code, the initial steps of which can be adapted for biologging studies, such as merging and standardizing additional sensor data (e.g., immersion/TDR) from multiple individuals.
 
-::: {.callout-tip collapse="true" appearance="minimal"}
+:::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
 
 ::: {style="font-size:16px"}
 [@langley2024a]
 :::
-:::
+::::
 
  
 
@@ -172,7 +173,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
 -   Contributed to review of optimising biologging methods
 
-::: {.callout-tip collapse="true" appearance="minimal"}
+:::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
 
 ::: {style="font-size:16px"}
@@ -184,7 +185,7 @@ I explored the influence of environmental heterogeneity, as a proxy for resource
 
 [@williams_optimizing_2020]
 :::
-:::
+::::
 
  
 
@@ -208,7 +209,7 @@ I joined the Norwegian Polar Institute on expeditions to the Antarctic ([Tor fie
 
 -   Individual foraging strategy is linked to diet in Antarctic petrels, with implications for population resiliance to climate change and fishery impacts
 
-::: {.callout-tip collapse="true" appearance="minimal"}
+:::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
 
 ::: {style="font-size:16px"}
@@ -216,7 +217,7 @@ I joined the Norwegian Polar Institute on expeditions to the Antarctic ([Tor fie
 
 [@descamps_variation_2022]
 :::
-:::
+::::
 
  
 
@@ -246,7 +247,7 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 
 -   Contributed to ongoing monitoring and recommendation of standardised methods for quantifying debris ingestion in marine megafauna
 
-::: {.callout-tip collapse="true" appearance="minimal"}
+:::: {.callout-tip collapse="true" appearance="minimal"}
 ##### Key publications
 
 ::: {style="font-size:16px"}
@@ -254,4 +255,4 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 
 [@provencher_quantifying_2017]
 :::
-:::
+::::
