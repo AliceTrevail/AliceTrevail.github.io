@@ -23,6 +23,35 @@ Alongside Liam Langley, Stephen Lang, & Luke Ozsanlav-Harris, we have created a 
 
 I am part of a team of Early Career Researchers promoting open and reproducible data science at the University of Exeter's penryn campus by delivering monthly workshops and talks, and sharing reproducible coding resources. Find upcoming and previous talks, alongside useful introductions and walkthroughs on common research programming activities, on the [ExeDataHub website](https://exeter-data-analytics.github.io/).
 
+### Data
+
+##### Bertarelli Programme in Marine Science data
+
+Data collected within our BPMS Seabird Connectivity project will all be archived or linked to within the project [Harvard Dataverse page](https://dataverse.harvard.edu/dataverse/seabird_connectivity)
+
+##### Seabird Tracking Data
+
+I am always keen to collaborate on projects maximising existing seabird tracking data. Tracking data that I have collected can be requested through the Seabird Tracking Database:
+
+```{r}
+#| echo: false
+#| output: false
+
+library(tidyverse)
+STDB_data <- read_csv("data/STDB_datasets.csv") %>%
+  mutate(URL = paste0("<a href = ", Link, "> ", Species, ", ", Colony, ", ", Year, "</a>"))
+
+library(leaflet)
+```
+
+```{r}
+#| echo: false
+leaflet(STDB_data) %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(~Lon, ~Lat, popup=~STDB_data$URL,
+            clusterOptions = markerClusterOptions())
+```
+
 ### R Code
 
 Find the code for this website and my previous projects via [my GitHub page](https://github.com/AliceTrevail)

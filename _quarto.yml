@@ -39,6 +39,7 @@ format:
     css: styles.css
     toc: true
     mainfont: Roboto
+    link-external-newwindow: true
 
 editor: visual
 
