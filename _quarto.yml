@@ -20,11 +20,13 @@ website:
         text: Publications
   page-footer:
     left: 
-      - icon: mortarboard-fill
+      - text: "{{< fa brands google-scholar >}}"
         href: https://scholar.google.com/citations?user=mKYlUsUAAAAJ&hl=en
-      - icon: github
+      - text: "{{< fa brands orcid >}}"
+        href: https://orcid.org/0000-0002-6459-5213
+      - text: "{{< fa brands github >}}"
         href: https://github.com/AliceTrevail
-      - icon: square
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/alicetrevail.bsky.social
       - icon: envelope-fill
         href: https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Alice_Trevail
