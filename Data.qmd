@@ -31,7 +31,7 @@ Data collected within our BPMS Seabird Connectivity project will all be archived
 
 ##### Seabird Tracking Data
 
-I am always keen to collaborate on projects maximising existing seabird tracking data. Tracking data that I have collected can be requested through the Seabird Tracking Database:
+I am always keen to collaborate on projects maximising existing seabird tracking data. Tracking data that I have helped to collect/process can be requested through the Seabird Tracking Database:
 
 ```{r}
 #| echo: false
@@ -39,7 +39,8 @@ I am always keen to collaborate on projects maximising existing seabird tracking
 
 library(tidyverse)
 STDB_data <- read_csv("data/STDB_datasets.csv") %>%
-  mutate(URL = paste0("<a href = ", Link, "> ", Species, ", ", Colony, ", ", Year, "</a>"))
+  mutate(URL = paste0("<a href = ", Link, ' target="_blank" >', 
+                      Species, ", ", Age, ", ", Tag_type, ", ", Colony, ", ", Year, "</a>"))
 
 library(leaflet)
 ```

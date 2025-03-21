@@ -1,4 +1,18 @@
-﻿DatasetID,Species,Year,Colony,Lon,Lat,Link
-2388,Wedge-tailed shearwater,2024,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/2388
-1649,Black-legged kittiwake,2017,Rathlin,-6.1975,55.295,https://data.seabirdtracking.org/dataset/1649
-1650,Black-legged kittiwake,2016-2017,Skomer,-5.295,51.7375,https://data.seabirdtracking.org/dataset/1650
+﻿DatasetID,Species,Age,Tag_type,Year,Colony,Lon,Lat,Link
+2384,Wedge-tailed shearwater,Adult,GPS,2023,Round Island,57.8,-19.9,https://data.seabirdtracking.org/dataset/2384
+2385,Wedge-tailed shearwater,Adult,GPS,2023,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/2385
+2388,Wedge-tailed shearwater,Adult,GPS,2024,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/2388
+1685,Brown booby,Adult,GPS,2018,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/1685
+1689,Red-footed booby,Adult,GPS,2018-2019,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/1689
+2098,Red-footed booby,Adult,GPS,2023,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/2098
+2387,Red-footed booby,Adult,GPS,2024,Nelson's Island,72.32,-5.68,https://data.seabirdtracking.org/dataset/2387
+2386,Red-footed booby,Immature,GPS/Argos PTT,2022-2023,Chagos Archipelago,72.32,-5.68,https://data.seabirdtracking.org/dataset/2386
+1686,Brown booby,Adult,GPS,2019,Danger Island,71.24,-6.39,https://data.seabirdtracking.org/dataset/1686
+1687,Red-footed booby,Adult,GPS,2019,Danger Island,71.24,-6.39,https://data.seabirdtracking.org/dataset/1687
+1688,Red-footed booby,Adult,GPS,2016 & 2018,Diego Garcia,72.44,-7.24,https://data.seabirdtracking.org/dataset/1688
+2099,Red-footed booby,Adult,GPS,2019,Diego Garcia,72.44,-7.24,https://data.seabirdtracking.org/dataset/2099
+2100,Red-footed booby,Adult,GPS,2022,Diego Garcia,72.44,-7.24,https://data.seabirdtracking.org/dataset/2100
+2026,Red-footed booby,Adult,GLS,2018-2020,Diego Garcia,72.44,-7.24,https://data.seabirdtracking.org/dataset/2026
+1649,Black-legged kittiwake,Adult,GPS,2017,Rathlin,-6.1975,55.295,https://data.seabirdtracking.org/dataset/1649
+1650,Black-legged kittiwake,Adult,GPS,2016-2017,Skomer,-5.295,51.7375,https://data.seabirdtracking.org/dataset/1650
+1651,Black-legged kittiwake,Adult,GPS,2015-2016,Puffin Island,-4.0277,53.3186,https://data.seabirdtracking.org/dataset/1651
