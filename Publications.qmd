@@ -9,6 +9,8 @@ citations-hover: false
 
 #### 2025
 
+[@dunn2025]
+
 [@coste2025]
 
 [@exeter2025]
