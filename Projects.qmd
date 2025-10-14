@@ -115,6 +115,14 @@ The now Critically Endangered Black-legged kittiwake, *Rissa tridactyla*, has ex
 
 -   To understand year-round distributions of the North Atlantic kittiwake metapopulation to inform future offshore renewable consenting. Led by PhD student Vance Mak
 
+
+:::: {.callout-tip collapse="true" appearance="minimal"}
+##### Key publications
+
+::: {style="font-size:16px"}
+[@delahay2025]
+:::
+::::
  
 
 ------------------------------------------------------------------------
