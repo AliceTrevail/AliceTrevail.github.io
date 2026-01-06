@@ -9,6 +9,10 @@ citations-hover: false
 
 #### 2025
 
+[@teixeira2025]
+
+[@wood2025]
+
 [@delahay2025]
 
 [@trevail2025]
