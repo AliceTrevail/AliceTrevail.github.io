@@ -1,0 +1,63 @@
+---
+title: "Indian Ocean seabird connectivity & conservation"
+image: ../../images/RFB_Trevail.jpg
+bibliography: ../../publications.bib
+csl: ../../apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+We are exploring the drivers of tropical seabird distributions and dispersal, to inform effective conservation strategies in the Western Indian Ocean. The Western Indian Ocean supports \~19 million seabirds of 30 species across 54 colonies, making it one of the most important tropical seabird assemblages in the world.
+
+This ongoing project is part of the [Bertarelli Programme in Marine Science](https://www.marine.science/project/birds-without-borders-or-isolated-islands-connectivity-of-western-indian-ocean-seabirds/).
+
+**Aims:**
+
+-   To evaluate the foraging and migratory ecology of tropical seabirds, and the consequent value of regional Marine Protected Areas.
+
+-   To understand the causes and consequences of seabird connectivity in tropical environments. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies across the Western Indian Ocean.
+
+:::: {.callout-tip collapse="true" appearance="minimal"}
+##### Key publications
+
+::: {style="font-size:16px"}
+#### Indian Ocean seabird distributions:
+
+[@trevail2023]
+
+[@votier2023]
+
+#### Tropical seabird foraging ecology:
+
+[@trevail2023a]
+
+[@dunn2024]
+
+[@trevail2024]
+
+[@coste2025]
+
+[@dunn2025]
+
+#### MPAs, seabird conservation, & terrestrial restoration:
+
+[@trevail2025]
+
+[@carr_potential_2021]
+
+[@carr_marine_2023]
+
+[@hays_review_2020]
+:::
+::::
+
+::: {layout-ncol="3"}
+![](../../images/UoE.png){width="30%"}
+
+![](../../images/bertarelli_foundation.png){width="30%"}
+
+![](../../images/marine.science_logo.jpg){width="30%"}
+:::
+
+![](../../images/RFB_Trevail.jpg)

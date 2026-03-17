@@ -1,0 +1,9 @@
+---
+title: "Research"
+listing:
+  id: research
+  type: grid
+  sort: false
+  fields: [image, title]
+page-layout: full
+---

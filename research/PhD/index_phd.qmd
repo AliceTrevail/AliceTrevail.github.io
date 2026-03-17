@@ -1,0 +1,39 @@
+---
+title: "Environmental drivers of individual and population movement strategies in kittiwakes"
+image: ../../images/kittiwake_Trevail.JPG
+bibliography: ../../publications.bib
+csl: ../../apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success, during my PhD at the University of Liverpool.
+
+**Key findings:**
+
+-   Environmental heterogeneity most likely clusters resources into discrete patches. This provides foraging opportunity, creates competition among individuals with negative consequences for reproductive success and promotes individual specialisation in habitat selection.
+
+-   Contributed to review of optimising biologging methods
+
+:::: {.callout-tip collapse="true" appearance="minimal"}
+##### Key publications
+
+::: {style="font-size:16px"}
+[@trevail_environmental_2019-1]
+
+[@trevail_environmental_2019]
+
+[@trevail_environmental_2021]
+
+[@williams_optimizing_2020]
+:::
+::::
+
+::: {layout-ncol="3"}
+![](../../images/UoL.jpg){width="30%"}
+
+![](../../images/nerc.png.webp){width="30%"}
+:::
+
+![](../../images/kittiwake_Trevail.JPG)

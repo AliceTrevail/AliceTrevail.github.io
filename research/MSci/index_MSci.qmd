@@ -1,0 +1,36 @@
+---
+title: "Seabirds as indicators of marine litter"
+image: ../../images/fulmar_Gabrielsen.JPG
+bibliography: ../../publications.bib
+csl: ../../apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the Norwegian high Arctic, during my MSci at the University of Southampton.
+
+**Key findings:**
+
+-   Arctic marine litter levels were higher than expected from regional trends, and exceeded the ecological quality objective defined by OSPAR for European seas.
+
+-   Highlighted the value of seabirds as bio-indicator species within marine policy, the connectivity of the global oceans, and the need for urgent regulation of plastic pollution in the Arctic
+
+-   Contributed to ongoing monitoring and recommendation of standardised methods for quantifying debris ingestion in marine megafauna
+
+:::: {.callout-tip collapse="true" appearance="minimal"}
+##### Key publications
+
+::: {style="font-size:16px"}
+[@trevail_elevated_2015]
+
+[@provencher_quantifying_2017]
+:::
+::::
+
+
+::: {layout-ncol="3"}
+![](../../images/UoS.svg.png){width="30%"}
+![](../../images/UNIS.png.webp){width="30%"}
+:::
+
+![](../../images/fulmar_Gabrielsen.JPG)
