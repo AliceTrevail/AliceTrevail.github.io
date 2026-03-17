@@ -24,7 +24,6 @@ The now Critically Endangered Black-legged kittiwake, *Rissa tridactyla*, has ex
 :::
 ::::
 
-
 ::: {layout-ncol="3"}
 ![](../../images/UoE.png){width="30%"}
 :::

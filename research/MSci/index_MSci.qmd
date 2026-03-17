@@ -7,6 +7,7 @@ suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
+
 Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the Norwegian high Arctic, during my MSci at the University of Southampton.
 
 **Key findings:**
@@ -27,10 +28,8 @@ Monitoring plastic ingestion by northern fulmars, *Fulmaris glacialis*, in the N
 :::
 ::::
 
-
 ::: {layout-ncol="3"}
-![](../../images/UoS.svg.png){width="30%"}
-![](../../images/UNIS.png.webp){width="30%"}
+![](../../images/UoS.svg.png){width="30%"} ![](../../images/UNIS.png.webp){width="30%"}
 :::
 
 ![](../../images/fulmar_Gabrielsen.JPG)
