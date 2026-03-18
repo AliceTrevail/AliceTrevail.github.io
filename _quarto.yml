@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - href: research/index.qmd
-        text: Research
+        text: Projects
       - href: People.qmd
         text: People
       - href: Data.qmd
