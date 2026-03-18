@@ -6,6 +6,7 @@ csl: ../../apa-cv.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
+order: 5
 ---
 
 I explored the influence of environmental heterogeneity, as a proxy for resource patchiness, on black-legged kittiwake, *Rissa tridactyla*, habitat selection, individual consistency, and reproductive success, during my PhD at the University of Liverpool.

@@ -6,6 +6,7 @@ csl: ../../apa-cv.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
+order: 6
 ---
 
 I joined the Norwegian Polar Institute on expeditions to the Antarctic ([Tor field station](https://www.npolar.no/en/tor/)) and Arctic (Svalbard) to help with regular seabird monitoring, and foraging ecology studies.

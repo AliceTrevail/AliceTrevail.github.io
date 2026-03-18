@@ -6,6 +6,7 @@ csl: ../../apa-cv.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
+order: 3
 ---
 
 The now Critically Endangered Black-legged kittiwake, *Rissa tridactyla*, has experienced widespread declines across the UK. Conservation focus is shifting offshore amid marine renewable developments that require impact assessment and offsetting, and the decommissioning and re-purposing of end-of-life oil and gas platforms. Offshore structures could support a significant kittiwake breeding population, not currently included in current population estimates.

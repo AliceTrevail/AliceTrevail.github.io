@@ -3,14 +3,8 @@ title: "Research"
 listing:
   id: research
   type: grid
-  contents:
-    - BPMS/index_BPMS.qmd
-    - ExMove/index_ExMove.qmd
-    - IoS-seabirds/index_IoS.qmd
-    - kittiwakes/index_kittiwakes.qmd
-    - PhD/index_phd.qmd
-    - Polar-seabirds/index_polar-seabirds.qmd
-    - MSci/index_MSci.qmd
+  sort:
+  - "order"
   fields: [image, title]
 page-layout: full
 ---
