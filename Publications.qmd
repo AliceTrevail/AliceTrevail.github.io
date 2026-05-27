@@ -7,6 +7,10 @@ link-citations: false
 citations-hover: false
 ---
 
+#### 2026
+
+[@swaby2026]
+
 #### 2025
 
 [@teixeira2025]

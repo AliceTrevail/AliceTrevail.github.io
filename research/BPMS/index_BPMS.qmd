@@ -13,22 +13,23 @@ We are exploring the drivers of tropical seabird distributions and dispersal, to
 
 This ongoing project is part of the [Bertarelli Programme in Marine Science](https://www.marine.science/project/birds-without-borders-or-isolated-islands-connectivity-of-western-indian-ocean-seabirds/).
 
-**Aims:**
+### Aims
 
 -   To evaluate the foraging and migratory ecology of tropical seabirds, and the consequent value of regional Marine Protected Areas.
 
 -   To understand the causes and consequences of seabird connectivity in tropical environments. In particular, the incidence and drivers of seabird prospecting, at-sea foraging habitat suitability, and the status of gene-flow among seabird colonies across the Western Indian Ocean.
 
-:::: {.callout-tip collapse="true" appearance="minimal"}
-##### Key publications
+### Key publications
 
-::: {style="font-size:16px"}
-#### Indian Ocean seabird distributions:
+:::: {.callout-tip collapse="true" appearance="minimal"}
+##### Indian Ocean-wide seabird distributions
 
 [@trevail2023]
 
 [@votier2023]
+::::
 
+:::: {.callout-tip collapse="true" appearance="minimal"}
 #### Tropical seabird foraging ecology:
 
 [@trevail2023a]
@@ -41,7 +42,11 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 
 [@dunn2025]
 
-#### MPAs, seabird conservation, & terrestrial restoration:
+[@swaby2026]
+::::
+
+:::: {.callout-tip collapse="true" appearance="minimal"}
+#### MPAs, conservation, & restoration:
 
 [@trevail2025]
 
@@ -50,7 +55,6 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 [@carr_marine_2023]
 
 [@hays_review_2020]
-:::
 ::::
 
 ::: {layout-ncol="3"}
