@@ -1,0 +1,27 @@
+---
+title: "Predictive foundational AI for ecosystem resilience forecasting"
+image: ../../images/razorbills.JPG
+bibliography: ../../publications.bib
+csl: ../../apa-cv.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+order: 1
+---
+
+Conserving ecosystems into the future requires a predictive ecology revolution. Foundational AI models are able to surpass the limitations of existing predictive models by encoding high complexity across global multi-sensor environmental data into a single digital representation, an ‘embedding’, which can be used as data in downstream analyses.
+
+This project aims to produce the first embeddings explicitly trained on future climate projections across the land-sea interface up to 2100. The team will be focusing their approach on UK seabirds, a highly threatened yet functionally critical and mobile group spanning marine and terrestrial ecosystems, validated by tracking seabird's movements at the UK's warming edge on the Isles of Scilly. This provides a scalable testbed for extending predictive ecosystem engineering to other vulnerable taxa and regions.
+
+The overall aim is to create a globally scalable toolkit for predicting future habitat suitability, identifying populations at risk of local extinction, and highlighting places where targeted interventions could improve resilience.
+
+This project is funded by the Advanced Research + Invention Agency (ARIA) within their Engineering Ecosystem Resilience (EER) opportunity space, which is exploring if combining high-resolution measurement with targeted, resilience-boosting interventions could reverse biodiversity decline and prevent ecological collapse.
+
+::: {layout-ncol="3"}
+![](../../images/UoE.png){width="30%"}
+
+![](../../images/ZSL_logo.svg.webp){width="30%"}
+
+![](../../images/ARIA Funded by logotype artwork.png){width="30%"}
+
+:::

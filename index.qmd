@@ -16,7 +16,16 @@ I am interested in how animals move and interact with the environment, and what 
 
 ::::: grid
 ::: g-col-3
-2023 - present
+2026 - present
+:::
+
+::: g-col-8
+ARIA Creator, University of Exeter, Cornwall
+:::
+:::::
+::::: grid
+::: g-col-3
+2023 - 2026
 :::
 
 ::: g-col-8
