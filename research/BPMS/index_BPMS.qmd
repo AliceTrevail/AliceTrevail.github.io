@@ -1,6 +1,6 @@
 ---
 title: "Indian Ocean seabird connectivity & conservation"
-image: ../../images/RFB_Trevail.JPG
+image: ../../images/NelsonsIs.jpg
 bibliography: ../../publications.bib
 csl: ../../apa-cv.csl
 suppress-bibliography: true
@@ -65,4 +65,4 @@ This ongoing project is part of the [Bertarelli Programme in Marine Science](htt
 ![](../../images/marine.science_logo.jpg){width="30%"}
 :::
 
-![](../../images/RFB_Trevail.jpg)
+![](../../images/NelsonsIs.jpg)
