@@ -1,6 +1,6 @@
 ---
 title: "Indian Ocean seabird connectivity & conservation"
-image: ../../images/RFB_Trevail.jpg
+image: ../../images/RFB_Trevail.JPG
 bibliography: ../../publications.bib
 csl: ../../apa-cv.csl
 suppress-bibliography: true
